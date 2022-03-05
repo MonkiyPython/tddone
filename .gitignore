@@ -1,0 +1,17 @@
+# Created by Rajath Kumar K S
+
+## PYTHON ##
+
+.pyc
+__pycache__
+
+
+## ENVIRONMENT ##
+
+env
+
+## DEVELOPMENT SYSTEM ##
+
+.DS_Store
+
+# End of GitIgnore
